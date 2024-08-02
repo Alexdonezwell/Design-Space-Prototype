@@ -1,0 +1,146 @@
+{
+    "parent": "null",
+    "name": "Design Space",
+    "edge_name": "null",
+    "children": [
+      {
+        "parent": "Design Space",
+        "name": "Who",
+        "edge_name": "Who",
+        "children": [
+          {
+            "parent": "Who",
+            "name": "Professional Profile",
+            "edge_name": "Professional Profile",
+            "children": []
+          },
+          {
+            "parent": "Who",
+            "name": "Professional Expertise",
+            "edge_name": "Professional Expertise",
+            "children": []
+          },
+          {
+            "parent": "Who",
+            "name": "Personal Profile",
+            "edge_name": "Personal Profile",
+            "children": []
+          }
+        ]
+      },
+      {
+        "parent": "Design Space",
+        "name": "What",
+        "edge_name": "What",
+        "children": [
+          {
+            "parent": "What",
+            "name": "What Behavioral Factors are Being Addressed?",
+            "edge_name": "What Behavioral Factors are Being Addressed?",
+            "children": []
+          },
+          {
+            "parent": "What",
+            "name": "What Outcomes are Interventions Trying to Achieve?",
+            "edge_name": "What Outcomes are Interventions Trying to Achieve?",
+            "children": []
+          }
+        ]
+      },
+      {
+        "parent": "Design Space",
+        "name": "When",
+        "edge_name": "When",
+        "children": [
+          {
+            "parent": "When",
+            "name": "Action Occurrence",
+            "edge_name": "Action Occurrence",
+            "children": []
+          },
+          {
+            "parent": "When",
+            "name": "Data Science Phase",
+            "edge_name": "Data Science Phase",
+            "children": []
+          },
+          {
+            "parent": "When",
+            "name": "Stages of Human Information Processing",
+            "edge_name": "Stages of Human Information Processing",
+            "children": []
+          }
+        ]
+      },
+      {
+        "parent": "Design Space",
+        "name": "Where",
+        "edge_name": "Where",
+        "children": [
+          {
+            "parent": "Where",
+            "name": "In-situ",
+            "edge_name": "In-situ",
+            "children": []
+          },
+          {
+            "parent": "Where",
+            "name": "Ex-situ",
+            "edge_name": "Ex-situ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "parent": "Design Space",
+        "name": "Why",
+        "edge_name": "Why",
+        "children": [
+          {
+            "parent": "Why",
+            "name": "Incentives",
+            "edge_name": "Incentives",
+            "children": []
+          },
+          {
+            "parent": "Why",
+            "name": "Regulations",
+            "edge_name": "Regulations",
+            "children": []
+          }
+        ]
+      },
+      {
+        "parent": "Design Space",
+        "name": "How",
+        "edge_name": "How",
+        "children": [
+          {
+            "parent": "How",
+            "name": "Intrusiveness",
+            "edge_name": "Intrusiveness",
+            "children": []
+          },
+          {
+            "parent": "How",
+            "name": "Programming Requirement",
+            "edge_name": "Programming Requirement",
+            "children": []
+          },
+          {
+            "parent": "How",
+            "name": "Interactivities",
+            "edge_name": "Interactivities",
+            "children": []
+          },
+          {
+            "parent": "How",
+            "name": "Level of Automation",
+            "edge_name": "Level of Automation",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+  
